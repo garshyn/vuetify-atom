@@ -6262,7 +6262,7 @@
   'v-toolbar with all props - Vuetify':
     'prefix': 'vToolbarWithProps'
     'body': """
-      >v-toolbar
+      <v-toolbar
         ${1:absolute}
         ${2:app}
         ${3:card}
